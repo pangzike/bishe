@@ -10,11 +10,13 @@ from utils.utils_general import *
 relation_set = ["address", "area", "food", "phone", "postcode",
                 "pricerange", "stars", "type", "choice", "ref", "name", "entrance_fee"]
 
-def read_langs(file_name, max_line=None):
+def read_langs(file_name, max_line=None, mission="train"):
     print(("Reading lines from {}".format(file_name)))
     data, context_arr, kb_arr, kb_id = [], [], [], []
     max_resp_len = 0
-
+    with open("data/MULTIWOZ2.1/annotate/{}_annotate_query.json".format(mission)) as f:
+        annotate = json.load(f)
+    annotate_i, annotate_j = 0, 0
     with open('data/MULTIWOZ2.1/global_entities.json') as f:
         global_entity = json.load(f)
         global_entity_list = {}
@@ -36,6 +38,8 @@ def read_langs(file_name, max_line=None):
                 nid, line = line.split(' ', 1)
                 if '\t' in line:
                     u, r, gold_ent = line.split('\t')
+                    annotate_user = annotate[annotate_i][annotate_j]
+                    u += ' ' + annotate_user
                     context_arr.append(u.split(' '))
 
                     # Get gold entity for each domain
@@ -106,6 +110,8 @@ def read_langs(file_name, max_line=None):
                     kb_arr.append(kb_info)
             else:
                 cnt_lin += 1
+                annotate_i += 1
+                annotate_j = 0
 
                 # if cnt_lin > 100:
                 #     break
