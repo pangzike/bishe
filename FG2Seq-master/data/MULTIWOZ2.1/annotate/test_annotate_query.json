@@ -1,0 +1,995 @@
+[
+    [
+        "find a hotel in the cheap price range",
+        "find a hotel in the cheap price range with free parking",
+        "find a hotel in the cheap price range in the west area with 4 star with free internet and parking",
+        "find a hotel called the cambridge belfry in the cheap price range in the west area with 4 star with free internet and parking . request the internet",
+        "book a hotel called the cambridge belfry in the cheap price range in the west area with 4 star with free internet and parking",
+        "[NOTHING]"
+    ],
+    [
+        "find a 4 star hotel",
+        "find a 4 star hotel in the east area",
+        "find a 4 star hotel in the centre area",
+        "book a 4 star hotel called university arms hotel in the centre area for saturday",
+        "book a 4 star hotel called university arms hotel in the centre area for 3 people 3 nights on saturday",
+        "book a 4 star hotel called university arms hotel in the centre area for 3 people 2 nights on saturday",
+        "book a 4 star hotel in the centre area for 3 people 2 nights on saturday",
+        "book a 4 star hotel called university arms hotel in the centre area for 3 people 3 nights on saturday",
+        "book a 4 star hotel in the centre area for 3 people 3 nights on saturday",
+        "book a 4 star hotel called university arms hotel in the centre area for 5 people 3 nights saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel",
+        "find a guesthouse with free wifi and parking",
+        "find a guesthouse with free wifi and parking in any area",
+        "book a guesthouse called the acorn guest house with free wifi and parking for 1 person for 5 nights starting on thursday",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive restaurant in the south area",
+        "find an expensive restaurant in the north area",
+        "book an expensive restaurant called saigon city in the north area for 5 people at 18 : 00",
+        "find an expensive priced restaurant called saigon city in the south area . request the food type",
+        "find an expensive asian restaurant called saigon city in the south area . request the phone and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called saigon city . request the info",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the centre area",
+        "find a hotel in the centre area in the expensive pricerange",
+        "book a hotel called the gonville hotel that has 3 star in the centre area in the expensive pricerange",
+        "book an expensive 3 star hotel called the gonville hotel in the centre area for 4 people",
+        "book an expensive 3 star hotel called the gonville hotel in the centre area for 2 people 3 nights on sunday",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the south area in the expensive price range",
+        "find a restaurant in the south area in the expensive price range . request the phone , postcode and food type",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called saigon city",
+        "book a restaurant called saigon city for 5 people on wednesday at 19 : 45",
+        "[NOTHING]"
+    ],
+    [
+        "find a spanish restaurant in the cheap price",
+        "find a spanish restaurant in the centre area in the cheap price",
+        "book a cheap spanish restaurant called la raza in the centre area for 7 on tuesday at 11 : 45 . request the reference number",
+        "find a restaurant",
+        "[NOTHING]"
+    ],
+    [
+        "find an east hotel with free internet",
+        "find an east 4 star hotel with free internet and parking",
+        "book an east 4 star hotel with free internet and parking with any price range for wednesday for 1 person for 5 nights",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called the arbury lodge guesthouse",
+        "book a 4 star guesthouse called the arbury lodge guesthouse in the north area for 5 people for 4 nights",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free internet and parking",
+        "find a guesthouse with free internet and parking in the north area",
+        "book a guesthouse with free internet and parking in the north area with any star rating for 2 people and 2 nights starting thursday",
+        "book a guesthouse with free internet and parking in the north area with any star rating and with any pricerange for 2 people and 2 nights starting thursday",
+        "book a guesthouse called the acorn guest house with free internet and parking in the north area for 2 people and 2 nights starting wednesday",
+        "book a guesthouse with free internet and parking in the north area with any star rating and with any pricerange for 2 people and 2 nights starting thursday",
+        "book a guesthouse called the arbury lodge guesthouse with free internet and parking in the north area for 2 people and 2 nights starting wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive italian restaurant",
+        "find an expensive italian restaurant in the south area",
+        "book an expensive italian restaurant called frankie and bennys in the south area for two sunday at 11 : 15",
+        "[NOTHING]"
+    ],
+    [
+        "find a chinese restaurant in the expensive price range",
+        "book an expensive chinese restaurant in any area for 3 people at 14 : 00 on saturday",
+        "book an expensive chinese restaurant in any area for 3 people at 13 : 00 on saturday",
+        "book an expensive chinese restaurant called the yu garden in any area for 3 people at 13 : 00 on saturday . request the reference number",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap restaurant in the centre area",
+        "find a cheap chinese restaurant called golden house in the centre area . request the address , postcode and phone",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the north area",
+        "find an indian restaurant in the north area in the moderate price range . request the address",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called lensfield hotel",
+        "book a hotel called lensfield hotel in the south area for 7 people for 3 nights starting sunday . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find a nightclubin the centre area",
+        "find a nightclub called ballare in the centre area . request the entrance fee",
+        "[NOTHING]"
+    ],
+    [
+        "find a attraction called kettles yard",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with free parking",
+        "find a guesthouse that has 4 star with free internet and parking in any area",
+        "book a cheap 4 star guesthouse called the alexander b and b with free internet and parking for 2 people for 5 nights starting on thursday",
+        "book a cheap 4 star guesthouse called the alexander b and b with free internet and parking for 2 people for 2 nights starting on thursday . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with a 3 star rating",
+        "find a guesthouse with a 3 star rating with free internet in any area",
+        "book a 3 star guesthouse called the hamilton lodge with free internet for 6 people",
+        "book a 3 star guesthouse called the hamilton lodge with free internet for 6 people 2 nights starting on wednesday",
+        "book a 3 star guesthouse with free internet for 6 people 2 nights starting on wednesday",
+        "book a 3 star guesthouse with free internet in any area for 6 people 2 nights starting on wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find an italian restaurant in the north area",
+        "find an italian restaurant called da vinci pizzeria in the north area . request the pricerange",
+        "find an italian restaurant called da vinci pizzeria in the north area in the cheap pricerange . request the phone and address",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a centre area restaurant in the expensive pricerange",
+        "find a vegetarian restaurant in the expensive pricerange in the centre area",
+        "find a turkish restaurant in the expensive pricerange in the centre area",
+        "book an expensive turkish restaurant called meze bar restaurant in the centre area for 4 on monday at 15 : 15",
+        "book an expensive turkish restaurant called meze bar restaurant in the centre area for 4 on saturday at 15 : 15",
+        "book an expensive turkish restaurant for 4 on monday at 15 : 15",
+        "book an expensive turkish restaurant called the meze bar restaurant for 4 on monday at 15 : 15",
+        "book an expensive turkish restaurant called the meze bar restaurant for 4 on saturday at 15 : 15",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse in the north area",
+        "find a guesthouse with 4 star in the north area with any pricerange",
+        "find a guesthouse with 4 star in the north area with any pricerange",
+        "find a guesthouse called the acorn guest house with 4 star in the north area . request the internet and pricerange",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the moderate pricerange",
+        "book an indian restaurant called the curry prince in the moderate pricerange for 7 people at 19 : 30 on tuesday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in centre area with free parking",
+        "find a cheap guesthouse in centre area with free parking",
+        "book a cheap guesthouse called the alexander bed and breakfast in centre area with free parking for 2 people on tuesday for 5 nights",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap hotel",
+        "find a cheap hotel in the centre area",
+        "find a cheap hotel in the centre area with any star rating with free internet",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a canapes restaurant in the east area",
+        "[NOTHING]",
+        "find an italian restaurant in the east area",
+        "book an italian restaurant called the pizza hut fen ditton in the east area for 6 at 16 : 15 on saturday",
+        "book an italian restaurant called the pizza hut fen ditton in the east area for 6 at 15 : 15 on saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find an entertainment in the centre area",
+        "find a museum in the centre area",
+        "find a museum called broughton house gallery in the centre area . request the phone",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free parking and internet",
+        "find a hotel with free parking and internet in the cheap pricerange",
+        "book a hotel with free parking and internet in the cheap pricerange in any area for monday",
+        "book a hotel with free parking and internet in the cheap pricerange in any area for 5 nights on monday",
+        "book a hotel with free parking and internet in the cheap pricerange in any area for 2 people 5 nights on monday",
+        "book a hotel called alexander bed and breakfast with free parking and internet in the cheap pricerange in any area for 2 people 3 nights on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive hotel with free parking",
+        "find an expensive guesthouse with free parking in any area with any star",
+        "find a cheap guesthouse with free parking in any area with any star rating",
+        "book a cheap 4 - star guesthouse called the allenbell with free parking for 5 people for 4 nights starting wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find an italian restaurant in the south area",
+        "book an italian restaurant called frankie and bennys in the south area for 7 people at 14 : 00 on friday",
+        "book an italian restaurant called frankie and bennys in the south area for 7 people at 13 : 00 on friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap hotel with free internet",
+        "find a cheap hotel with 3 star with free internet in any area",
+        "find a moderate hotel with 3 star with free internet in any area",
+        "find a moderate guesthouse with 3 star with free internet in any area",
+        "book a moderate guesthouse with 3 star with free internet in any area on thursday",
+        "book a moderate guesthouse called bridge guest house with 3 star with free internet for 2 people on thursday for 3 nights",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the centre area",
+        "find an indian restaurant in the centre area in the cheap pricerange",
+        "book a cheap indian restaurant called the gandhi in the centre area there fore 7 people at 12 : 15 on saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called india house",
+        "book an expensive indian restaurant called india house in the west area for 4 people at 16 : 30 on saturday . request the ref",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive restaurant serving mexican cuisine",
+        "book a mexican expensive restaurant called chiquito restaurant in the south",
+        "book a mexican expensive restaurant called chiquito restaurant in the south for wednesday for 7 people at 18 : 30",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a moderate priced restaurant in the east area",
+        "find a moderate priced italian restaurant in the east area",
+        "find a moderate priced italian restaurant in the east area",
+        "book a moderate priced italian restaurant called pizza hut fen ditton in the east area on monday",
+        "book a moderate priced italian restaurant called pizza hut fen ditton in the east area on monday for 5 people at 12 : 15",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with 3 star",
+        "find a hotel with 3 star in the south area with free internet",
+        "book a hotel with 3 star in the south area with free internet with any pricerange on wednesday for 3 people for 3 nights",
+        "book a hotel with 3 star in the south area with free internet with any pricerange on wednesday for 3 people for 3 nights . request the address and phone number",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called a and b guest house",
+        "find a hotel called a and b guest house in the east area in the moderate pricerange . request the address and phone",
+        "[NOTHING]"
+    ],
+    [
+        "find a british restaurant",
+        "find a british restaurant in the west area",
+        "find a british restaurant called graffiti in the west area . request the phone , address and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a boat type attraction in the north area",
+        "find a boat type attraction called the riverboat georgina in the north area . request the phone and entrance fee",
+        "[NOTHING]"
+    ],
+    [
+        "find a centre moderate priced restaurant",
+        "find a centre lebanese restaurant in the moderate pricerange",
+        "book a moderate lebanese restaurant called ali baba in the centre for tonight at 7pm",
+        "find a centre lebanese restaurant called ali baba in the moderate pricerange . request the address",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant",
+        "find a traditional restaurant in the centre area",
+        "find a lebanese restaurant in the centre area",
+        "book a lebanese restaurant called ali baba in the centre area for 2 people at 12 : 00 on wednesday",
+        "book a lebanese restaurant called ali baba in the centre area for 2 people at 11 : 00 on wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find a night club type attraction",
+        "find a night club type attraction . request the entrance fee",
+        "find a night club type attraction called the soul tree nightclub . request the phone",
+        "find a night club type attraction called the soul tree nightclub . request the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the centre area",
+        "find a 4 - star hotel in the centre area in the expensive pricerange",
+        "book an expensive 4 - star hotel called the university arms hotel in the centre area for 4 nights from wednesday for 5 people",
+        "book an expensive 4 - star hotel called the university arms hotel in the centre area for 4 nights from wednesday for 5 people . request the ref",
+        "book an expensive 4 - star hotel called the university arms hotel in the centre area for 4 nights from wednesday for 5 people . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the cheap price range in the north area",
+        "find a hotel with any star in the cheap price range in the north area",
+        "book a hotel called the worth house in the cheap price range in the north area",
+        "book a hotel called the worth house in the cheap price range in the north area for one person on sunday for one night",
+        "find a cheap guesthouses in the north with free internet",
+        "book a guesthouse called the worth house in the cheap price range in the north area for one person on sunday for one night . request the star rating and the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a 4 star hotel in the moderate price range",
+        "find a 4 star guesthouse in the moderate price range in the north with free parking",
+        "book a moderate price 4 star guesthouse called acorn guest house in the north with free parking for 3 people",
+        "book a moderate price 4 star guesthouse called acorn guest house in the north with free parking for 3 people starting friday for 4 nights",
+        "book a moderate price 4 star guesthouse called acorn guest house in the north with free parking for 3 people starting friday for one night",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant that serves african food with a moderate price range",
+        "find a restaurant that serves asian food with a moderate price range",
+        "book a moderate price asian restaurant called the yippee noodle bar in the center of town for 6 at 13 : 45 on friday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an attraction",
+        "find an architecture type attraction",
+        "find an architecture type attraction",
+        "find an architecture type attraction called the holy trinity church . request the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive hotel with free parking",
+        "find an expensive hotel with free parking in any area",
+        "find an expensive hotel called the huntingdon marriott with free parking . request the phone",
+        "[NOTHING]"
+    ],
+    [
+        "find hotels with free internet and parking",
+        "find the guesthouse type hotels with free internet and parking in the centre area",
+        "book a 4 star guesthouse type hotel called alexander bed and breakfast with free internet and parking in the centre area for 1 people and 4 nights starting from tuesday",
+        "book a 4 star guesthouse type hotel called alexander bed and breakfast with free internet and parking in the centre area for 1 people and 4 nights starting from wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free parking",
+        "find a hotel with free parking in the moderate prince range",
+        "find a hotel called the acorn guest house with 4 star with free parking in the moderate prince range in the north area . request the internet",
+        "find a hotel called the acorn guest house with 4 star with free parking and internet in the moderate prince range in the north area . request the phone",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called warkworth house",
+        "book a hotel called warkworth house for 3 people and 5 nights starting from thursday",
+        "book a hotel called warkworth house for 3 people and 5 nights starting from friday . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called restaurant alimentum",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap chinese restaurant",
+        "book a cheap chinese restaurant called charlie chan in the centre area . request the address",
+        "find a cheap chinese restaurant called charlie chan in the centre area . request the postcode and the area",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel rated 3 star",
+        "find a hotel rated 4 star with free parking",
+        "find a hotel rated 5 star with free parking",
+        "find a hotel rated 5 star with free parking",
+        "find a hotel rated 3 star with free parking",
+        "find a hotel rated 3 star with free parking in the centre area",
+        "book a 3 star hotel called the gonville hotel with free parking in the centre area for 8 people starting wednesday for 2 nights",
+        "book a 3 star hotel called the gonville hotel with free parking in the centre area for 8 people starting wednesday for 1 night",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the centre area",
+        "find an italian restaurant in the centre area",
+        "book an italian restaurant called stazione restaurant and coffee bar in the centre area for 1 on saturday at 12 : 45",
+        "book an italian restaurant called stazione restaurant and coffee bar in the centre area for 1 on saturday at 12 : 45 . request the info",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an attraction in the west area",
+        "find a museum in the west area . reqeust the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a 1 star hotel with free parking",
+        "find a 1 star guesthouse with free parking",
+        "find a 1 star guesthouse with free parking",
+        "find a 4 star hotel with free parking",
+        "book a 4 star hotel with free parking for 1 people on sunday for 2 nights",
+        "find a 4 star guesthouse",
+        "find a 4 star guesthouse in any area",
+        "book a cheap 4 star guesthouse called the alexander bed and breakfast with free parking in the centre for 1 people on sunday for 2 nights",
+        "book a cheap 4 star guesthouse called the alexander bed and breakfast with free parking in the centre for 1 people on tuesday for 2 nights",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free internet",
+        "find a 4 star hotel with free internet in a moderate price range",
+        "find a 4 star hotel with free internet in a moderate price range in any area",
+        "find a 4 star hotel called a and b guest house with free internet in a moderate price range . request the ref",
+        "book a moderate price 4 star hotel called a and b guest house with free internet for sunday for 3 nights and 6 people",
+        "book a moderate price 4 star hotel with free internet for sunday for 3 nights and 6 people",
+        "book a moderate price 4 star hotel called the acorn guest house with free internet for sunday for 3 nights and 6 people",
+        "book a moderate price 4 star hotel called the acorn guest house with free internet for sunday for 2 nights and 6 people",
+        "[NOTHING]"
+    ],
+    [
+        "find an asian oriental restaurant in the centre area",
+        "find an asian oriental restaurant in the centre area in the moderate pricerange",
+        "book a moderate price asian oriental restaurant called the yippee noodle bar in the centre area for 4 people on saturday",
+        "book a moderate price asian oriental restaurant called the yippee noodle bar in the centre area for 4 people on saturday at 16 : 30",
+        "[NOTHING]"
+    ],
+    [
+        "find an attraction in the west area",
+        "find an attraction in the west area",
+        "find a museum called whale of a time in the west area . request the phone number\uff0caddress and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a attraction called williams art and antiques",
+        "find a attraction called williams art and antiques . request the area and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find an east entertainment attraction",
+        "find an east entertainment attraction called cherry hinton hall and grounds . reqeust the address and postcode",
+        "find an east entertainment attraction called cherry hinton hall and grounds . reqeust the entrance fee",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called warkworth house . request the info",
+        "book a hotel called warkworth house on tuesday",
+        "book a hotel called warkworth house for 3 nights starting on tuesday",
+        "book a hotel called warkworth house for 1 person 3 nights starting on tuesday",
+        "[NOTHING]"
+    ],
+    [
+        "find an afghan restaurant in the west area",
+        "find a restaurant with any type food in the west area in the expensive pricerange",
+        "find an indian restaurant in the west area in the expensive pricerange",
+        "book an expensive indian restaurant called maharajah tandoori restaurant in the west area for 2 people . request the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a 4 star hotel with free parking",
+        "find a 4 star hotel with free parking in the centre area in the moderate pricerange",
+        "find a 4 star hotel with free parking in the north area in the moderate pricerange",
+        "book a 4 star hotel with free parking in the north area in the moderate pricerange with any hotel",
+        "find a hotel . request the area , pricerange , star rating and free parking",
+        "find a hotel called the kirkwood house with 4 stars with free parking in the north area in the moderate pricerange . request the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the expensive price with free internet",
+        "find a guesthouse in the expensive price with free internet in any area",
+        "find a guesthouse in the cheap price with free internet in any area",
+        "find a guesthouse with any star rating in the cheap price with free internet",
+        "find a guesthouse called the el shaddai in the centre area in the cheap price with free internet and parking . request the phone",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive african restaurant",
+        "book an expensive african restaurant called the bedouin in the centre area . request the address and phone",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive hotel with free internet",
+        "find an expensive guesthouse with free internet in any area",
+        "find a cheap guesthouse with free internet in any area",
+        "find a cheap guesthouse with free internet in any area",
+        "find a cheap guesthouse with free internet in any area . request the hotel type",
+        "book a cheap guesthouse called the el shaddai with free internet for 3 people for 4 nights from tuesday",
+        "book a cheap guesthouse called the el shaddai with free internet for 3 people for 4 nights",
+        "book a cheap guesthouse with free internet for 3 people for 4 nights from tuesday",
+        "book a cheap guesthouse with free internet for 3 people for 4 nights from tuesday",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called bangkok city . request the info",
+        "book an expensive thai restaurant called bangkok city for 5 people on friday at 14 : 15",
+        "book an expensive thai restaurant called bangkok city for 5 people on friday at 13 : 15",
+        "[NOTHING]"
+    ],
+    [
+        "find a venetian restaurant in the centre area",
+        "find a chinese restaurant in the centre area",
+        "find an expensive chinese restaurant in the centre area",
+        "book an expensive chinese restaurant called the ugly duckling in the centre area for 4 people at 12 : 00 on wednesday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a 4 star hotel with free internet",
+        "find a 4 star hotel with free parking and internet in any pricerange",
+        "find a 4 star hotel with free parking and internet in any pricerange",
+        "find a 4 star hotel called archway house with free parking and internet . request the area and pricerange",
+        "find a 4 star hotel called archway house with free parking and internet in the north area in the moderate pricerange",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant with italian food and in the expensive range",
+        "book a restaurant with italian food and in the expensive range",
+        "book a restaurant with italian food and in the expensive range in the centre area",
+        "find a restaurant called don pasquale pizzeria with italian food and in the expensive range in the centre area . request the postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the expensive pricerange in the centre area",
+        "find a restaurant with any type food in the expensive pricerange in the centre area",
+        "book an expensive african restaurant called bedouin in the centre area for 8 on wednesday at 15 : 30",
+        "book an expensive african restaurant called bedouin in the centre area for 8 on wednesday at 15 : 30 . request the ref",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with 2 star in the moderate pricerange",
+        "find a hotel with 2 star in the moderate pricerange in the north area",
+        "find a hotel called the ashley hotel with 2 star in the moderate pricerange in the north area . request the address",
+        "find a hotel called the ashley hotel with 2 star in the moderate pricerange in the north area . request the address",
+        "[NOTHING]"
+    ],
+    [
+        "find a 3 - star hotel",
+        "find a 3 - star hotel with free internet in any pricerange",
+        "find a 3 - star hotel with free internet in any pricerange",
+        "find a 3 - star hotel with free internet in the moderate pricerange",
+        "find a 3 - star hotel with free internet in the moderate pricerange . request the hotel type",
+        "find a 3 - star guesthouse called the hamilton lodge with free internet in the moderate pricerange in the north area . request the phone",
+        "find a 3 - star guesthouse called the hamilton lodge with free internet in the moderate pricerange in the north area . request the address",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive panasian restaurant",
+        "find an expensive mediterranean restaurant",
+        "book an expensive mediterranean restaurant called la mimosa in the centre area for 7 at 15 : 15 on wednesday",
+        "[NOTHING]"
+    ],
+    [
+        "find a moderate priced hotel",
+        "find a moderate priced hotel with free internet in any area",
+        "find a moderate priced 4 - star hotel with free internet and parking in any area",
+        "find a moderate priced 4 - star hotel called the archway house with free internet and parking . request the phone and area",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free parking and internet",
+        "find a hotel with free parking and internet in any area and with any pricerange",
+        "book a hotel called gonville hotel with free parking and internet",
+        "book a hotel called gonville hotel with free parking and internet for 3 people on saturday",
+        "book a hotel called gonville hotel with free parking and internet for 3 people two nights on saturday",
+        "book a hotel called gonville hotel with free parking and internet for 3 people 1 night on saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a centre restaurant in the cheap range",
+        "find a centre creative restaurant in the cheap range",
+        "find a centre indian restaurant in the cheap range",
+        "book a cheap indian restaurant called the kohinoor in the centre for 4 people on wednesday at 18 : 30",
+        "book a cheap indian restaurant called the kohinoor in the centre for 4 people on wednesday at 17 : 30"
+    ],
+    [
+        "find an expensive restaurant in the south area",
+        "find an expensive chinese restaurant in the south area . request the phone and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with 3 stars with free internet . request the info",
+        "find a hotel with 3 stars with free internet in any area",
+        "book a hotel 3 star called the gonville hotel with free internet for 5 people and 2 nights starting from monday",
+        "book a hotel 3 star called the gonville hotel with free internet for 5 people and 2 nights starting from sunday",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with free parking",
+        "find a 3 - star guesthouse with free parking in the south area",
+        "book a 3 - star guesthouse called bridge guest house with free parking in the south area for 8 people for 3 nights starting on monday",
+        "book a 3 - star guesthouse called bridge guest house with free parking in the south area for 8 people for 3 nights starting",
+        "book a 3 - star guesthouse called bridge guest house with free parking in the south area for 8 people for 3 nights starting on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find a 3 - star hotel with expensive price",
+        "find a 3 - star hotel called gonville hotel with expensive price . request the internet",
+        "book an expensive 3 - star hotel called gonville hotel with free internet for 6 people for 2 nights and starting from saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called the bridge guest house",
+        "book a hotel called the bridge guest house for 3 people and 4 nights starting from thursday",
+        "book a hotel called the bridge guest house for 3 people and 4 nights starting from saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free internet",
+        "find a hotel with free internet in the cheap price range",
+        "find a cheap hotel with free internet and parking in any area",
+        "book a cheap hotel called the cambridge belfry in the west area with free internet and parking for three nights starting on sunday",
+        "book a cheap hotel in the west area with free internet and parking for three nights starting on sunday",
+        "book a cheap hotel with free internet and parking for three nights starting on sunday",
+        "book a cheap hotel with free internet and parking in any area for three nights starting on sunday",
+        "book a cheap hotel with free internet and parking in any area for 4 people three nights starting on sunday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a british restaurant in the centre area",
+        "book an expensive british restaurant in the centre area for 5 at 14 : 00 on thursday",
+        "book an expensive italian restaurant in the centre area for 5 at 14 : 00 on thursday",
+        "book an expensive british restaurant in the centre area for 5 at 14 : 00 on thursday",
+        "book an expensive british restaurant called the cambridge chop house in the centre area for 5 at 13 : 00 on thursday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a north indian restaurant in the centre area",
+        "find a chinese restaurant in the centre area",
+        "book a chinese restaurant in the centre area for 2 people on a sunday at 13 : 30",
+        "book a chinese restaurant in the centre area with any price range for 2 people on a sunday at 13 : 30",
+        "book a moderate price chinese restaurant called lan hong house in the centre area for 2 people on a sunday at 13 : 30",
+        "book a moderate price chinese restaurant called lan hong house in the centre area for 2 people on a sunday at 12 : 30",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with free parking",
+        "find a guesthouse with free parking in the east area",
+        "find a cheap guesthouse with free parking in the east area",
+        "find a cheap guesthouse called allenbell with free parking in the east area",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the centre area with moderate price",
+        "book a restaurant in the centre area with moderate price for 5 people at 13 : 45 on saturday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel",
+        "find a hotel in the moderate price range",
+        "find a hotel with any star rating in the moderate price range",
+        "find a guesthouse with any star rating in the moderate price range in the north area",
+        "book a guesthouse called the apha - milton in the moderate price range without free parking in the north area",
+        "book a guesthouse called the apha - milton in the moderate price range in the north area for 3 people for 4 nights on thursday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called alpha - milton guest house . request the info",
+        "[NOTHING]"
+    ],
+    [
+        "book a cheap hotel in the east area",
+        "book a cheap guesthouse in the east area with free parking",
+        "book a cheap guesthouse called allenbell in the east area with free parking for 1 person for 5 nights starting on thursday",
+        "book a cheap guesthouse called allenbell in the east area with free parking for 1 person for 5 nights starting on friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with free parking",
+        "find an expensive guesthouse with free parking",
+        "find a cheap hotel with free parking",
+        "find a cheap guesthouse with free internet",
+        "book a cheap guesthouse called alexander bed and breakfast with free internet and parking for 8 people for 4 nights starting friday",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the expensive price range",
+        "find an indian restaurant called curry garden in the expensive price range . request the area , post code and phone",
+        "find an indian restaurant called curry garden in the expensive price range . request the phone",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive guesthouse",
+        "find an expensive hotel called the huntingdon marriott hotel . request the parking",
+        "find a cheap guesthouse with free parking",
+        "find a cheap guesthouse with free parking . request the star rating",
+        "find a cheap guesthouse called allenbell has 4 star rating with free parking . request the pricerange",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with free internet",
+        "find a 4 - star guesthouse with free internet and parking",
+        "book a cheap 4 - star guesthouse called the alexander b & b with free internet and parking for 6 people for 4 nights and checking in on tuesday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a british restaurant",
+        "find a british restaurant in the west area",
+        "find a british restaurant in the centre area in any pricerange",
+        "book a british restaurant called the restaurant one seven in the centre area for 6 people at 19 : 30 on friday . request the ref",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant called la margherita",
+        "[NOTHING]"
+    ],
+    [
+        "find a concert hall in the east area",
+        "find an entertainment in the east area",
+        "find an entertainment in the east area . request the address and phone",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel",
+        "find a hotel called the cambridge belfry",
+        "find a cheap hotel called the cambridge belfry in the west area . request the internet",
+        "find a cheap hotel called the cambridge belfry in the west area . request the address and phone"
+    ],
+    [
+        "find a hotel with free internet and free parking",
+        "find an expensive guesthouse with free internet and free parking",
+        "find a moderate guesthouse with free internet and free parking",
+        "find a moderate guesthouse with free internet and free parking . request the star rating and phone",
+        "[NOTHING]"
+    ],
+    [
+        "find a moderate priced restaurant in the centre area",
+        "book a table for 4 at 20 : 00 on wednesday at a moderate priced restaurant called yippee noodle bar in the centre area",
+        "book a table for 4 at 19 : 00 on wednesday at a moderate priced restaurant called yippee noodle bar in the centre area",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a british restaurant in the moderate pricerange",
+        "book a moderate price british restaurant called the oak bistro in the centre area for 6 people on sunday at 18 : 30",
+        "[NOTHING]"
+    ],
+    [
+        "find a british restaurant in the centre area",
+        "find an expensive british restaurant in the centre area",
+        "book an expensive british restaurant called fitzbillies restaurant in the centre area for 8 people on friday at 12 : 00",
+        "book an expensive british restaurant called fitzbillies restaurant in the centre area for 8 people on friday at 11 : 00",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse with 3 star rating",
+        "find a moderate guesthouse with 3 star rating",
+        "find a moderate guesthouse with 3 star rating with free internet and parking",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called alpha - milton guest house",
+        "book a hotel called alpha - milton guest house for four people for four nights starting monday",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the expensive range",
+        "find an indian restaurant in the west area in the expensive range",
+        "find an indian restaurant called tandoori palace in the west area in the expensive range . request the number and address",
+        "[NOTHING]"
+    ],
+    [
+        "find a chinese restaurant in the centre area",
+        "find a chinese restaurant in the centre area in the expensive pricerange",
+        "book an expensive chinese restaurant called hk fusion in the centre area for 3 people at 15 : 45 on friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called city centre north b and b",
+        "book a hotel called city centre north b and b for 1 person for 5 nights starting friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a modern european arestaurant in the moderate price range",
+        "find a modern european arestaurant in the moderate price range in the centre area",
+        "book a moderate price modern european arestaurant called de luca cucina and bar in the centre area for 6 people at 19 : 15 on saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a guesthouse in the moderate price range",
+        "find a 3 star guesthouse in the moderate price range",
+        "book a moderate price 3 star guesthouse called the bridge guest house in the south area for four people",
+        "book a moderate price 3 star guesthouse called the bridge guest house in the south area for four people two nights starting on saturday",
+        "book a moderate price 3 star guesthouse called the bridge guest house in the south area for four people 1 night starting on saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find a mexican restaurant in the centre area",
+        "find an indian restaurant in the centre area",
+        "find an indian restaurant called the curry garden in the centre area . request the postcode , address and number",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called el shaddia guesthouse . request the info",
+        "book a 0 star cheap guesthouse called el shaddia guesthouse in the centre area with free internet and parking for 7 peolple for 3 nights and checking in on monday",
+        "book a 0 star cheap guesthouse called el shaddia guesthouse in the centre area with free internet and parking for 7 peolple for 1 night and checking in on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with free internet in the moderate price range",
+        "find a hotel with free internet and parking in the moderate price range in any area",
+        "book a moderate price hotel called the lovell lodge sound with free internet and parking for 1 person for 4 nights starting on friday",
+        "book a moderate price hotel called the lovell lodge sound with free internet and parking for 1 person for 4 nights starting on wednesday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap 4 star hotel or guesthouse",
+        "find a cheap 4 star guesthouse",
+        "book a cheap 4 star guesthouse for 8 people and 3 nights starting thursday",
+        "book a cheap 4 star guesthouse called the autumn house for 8 people and 3 nights starting thursday . request the ref",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find an indian restaurant in the expensive price range",
+        "find an indian restaurant in the expensive price range in the west area",
+        "book an expensive indian restaurant called the tandoori palace in the west area for 1 person saturday at 19 : 15",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel with a 0 star rating without free parking",
+        "find a hotel with a 0 star rating without free parking in the centre area",
+        "book a 0 star hotel called cityroomz in the centre area without free parking for one person for 5 nights starting friday",
+        "book a 0 star hotel called cityroomz in the centre area without free parking for one person",
+        "book a 0 star hotel called cityroomz in the centre area without free parking for one person for 5 nights starting on thursday",
+        "book a 0 star hotel called cityroomz in the centre area without free parking for one person for 5 nights starting on saturday",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap asian restaurant",
+        "find a cheap asian restaurant . request the info",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the south area with free parking",
+        "find a hotel in the south area with free parking and internet in any pricerange",
+        "book a hotel in the south area with free parking and internet in any pricerange for 6 people for 5 nights starting friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a molecular gastronomy restaurant",
+        "find a gastropubs or international restaurant in the moderate price range",
+        "find a gastropubs or international restaurant called the cow pizza kitchen and bar in the moderate price range . request the food type",
+        "find a gastropubs restaurant called the cow pizza kitchen and bar in the moderate price range . request the address",
+        "[NOTHING]"
+    ],
+    [
+        "find a five star hotel with free internet",
+        "find a 4 star hotel with free internet in the expensive price range",
+        "book an expensive 4 star hotel with free internet for 4 nights",
+        "book an expensive 4 star hotel with free internet for 4 nights starting saturday",
+        "book an expensive 4 star hotel with free internet for 3 people 4 nights starting saturday . request the ref",
+        "book an expensive 4 star hotel with free internet for 3 people 4 nights starting sunday",
+        "book an expensive 4 star hotel with free internet for 3 people 3 nights starting sunday",
+        "book an expensive 4 star hotel with free internet for 3 people 3 nights starting saturday",
+        "[NOTHING]"
+    ],
+    [
+        "find an eastern european restaurant in the south area",
+        "find an expensive eastern european restaurant in the south area",
+        "find an expensive chinese restaurant in the south area",
+        "book an expensive chinese restaurant called peking restaurant in the south area for 2 people",
+        "book an expensive chinese restaurant called peking restaurant in the south area for 2 people for saturday at 11 : 45",
+        "book an expensive chinese restaurant called peking restaurant in the south area for 2 people for saturday at 11 : 45 . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the east area and in the expensive price range",
+        "book an expensive british restaurant in the east area on wednesday",
+        "book an expensive british restaurant called the grafton hotel restaurant in the east area at 14 : 00 on wednesday for 5 people",
+        "book an expensive british restaurant called the grafton hotel restaurant in the east area at 13 : 00 on wednesday for 5 people",
+        "[NOTHING]"
+    ],
+    [
+        "find an international restaurant in the centre area",
+        "find an international restaurant in the centre area in the moderate price range",
+        "book a moderate price international restaurant called the varsity restaurant in the centre area for 6 at 12 : 00 on tuesday . request the ref",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel called warkworth house",
+        "find a hotel called warkworth house in the east area . request the pricerange",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a 4 star guesthouse",
+        "find a 4 star guesthouse in the south area with free internet",
+        "book a 4 star cheap guesthouse called rosa ' s bed and breakfast in the south area with free internet for 8 people for 3 nights starting friday",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the north area",
+        "find a hotel with 0 star in the north area",
+        "find a guesthouse called city centre north b and b with 0 star with free internet in the north area . request the pricerange",
+        "[NOTHING]"
+    ],
+    [
+        "find a french restaurant in the north area",
+        "find a french restaurant called two two in the expensive range in the north area . request the postcode and address",
+        "[NOTHING]"
+    ],
+    [
+        "find a portuguese restaurant",
+        "find a portuguese or turkish restaurant in the moderate price range . request the address",
+        "find a turkish restaurant in the moderate price range",
+        "book a moderately priced turkish restaurant called the anatolia for 1 people at 14 : 00 on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find a chinese restaurant in the east area",
+        "book a chinese restaurant called yu garden in the east area for 1 person at 19 : 30 on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap restaurant in the centre area",
+        "find a cheap chinese restaurant in the centre area",
+        "find a cheap chinese restaurant in the centre area . request the address , postcode and phone",
+        "book a cheap chinese restaurant called the golden house in the centre area",
+        "[NOTHING]"
+    ],
+    [
+        "find a chinese restaurant in the centre area",
+        "find a chinese restaurant in the centre area in the moderate pricerange . request the phone , address and postcode",
+        "[NOTHING]"
+    ],
+    [
+        "find a hotel in the north area",
+        "find a hotel with 4 star in the north area",
+        "find a guesthouse with 4 star in the north area",
+        "find a guesthouse with 4 star in the north area in any pricerange",
+        "book a cheap 4 star guesthouse called worth house in the north area for 3 people for 3 nights starting sunday",
+        "book a cheap 4 star guesthouse called worth house in the north area for 3 people for 3 nights starting sunday . request the ref",
+        "[NOTHING]"
+    ],
+    [
+        "find an attraction called holy trinity church",
+        "find an attraction called holy trinity church in the centre area . request the type",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive restaurant in the west area",
+        "find an expensive indian restaurant called chicken tikka masala in the west area",
+        "book an expensive indian restaurant called the rice boat in the west area for 1 person at 11 : 45 on monday",
+        "[NOTHING]"
+    ],
+    [
+        "find a cheap hotel in the center area",
+        "find a cheap 0 star hotel with free parking in the center area",
+        "find a cheap 0 star hotel called the el shaddai with free parking in the center area . request the postcode and hotel type",
+        "find a cheap 0 star hotel called the el shaddai with free parking in the center area . request the hotel type",
+        "find a cheap 0 star hotel with free parking in the center area",
+        "[NOTHING]",
+        "[NOTHING]"
+    ],
+    [
+        "find a moderate priced hotel with free parking",
+        "find a moderate priced hotel called acorn guest house with free parking . reques the internet and star rating",
+        "find a moderate priced hotel with 2 star and with free parking and internet",
+        "find a moderate priced hotel called the ashley hotel with 2 star and with free parking and internet . request the address",
+        "find a moderate priced hotel called the ashley hotel with 2 star and with free parking and internet . request the postcode",
+        "find a moderate priced hotel called the ashley hotel with 2 star and with free parking and internet . request the area",
+        "[NOTHING]"
+    ],
+    [
+        "find a restaurant in the centre area",
+        "find a middle eastern restaurant in the centre area",
+        "find a mediterranean restaurant in the centre area",
+        "find an expensive mediterranean restaurant in the centre area",
+        "book an expensive mediterranean restauran called la mimosa or shiraz in the centre area",
+        "book an expensive mediterranean restauran called la mimosa in the centre area on saturday at 15 : 00",
+        "book an expensive mediterranean restauran called la mimosa in the centre area for 1 person on saturday at 15 : 00 . request the address , postcode and the phone number",
+        "[NOTHING]"
+    ],
+    [
+        "find an expensive restaurant in the centre",
+        "find an expensive restaurant in the centre with any food type . request the postcode",
+        "[NOTHING]",
+        "[NOTHING]"
+    ]
+]
